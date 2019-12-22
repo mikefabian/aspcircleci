@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspClircleCi.App", "AspClircleCi.App\AspClircleCi.App.csproj", "{0EAE532B-CADE-44DA-9A03-4CFB1BE30066}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspCircleCi.Test", "AspCircleCi.Test\AspCircleCi.Test.csproj", "{C1A2EE09-3344-45E7-88B3-3FC7AE71D3AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{0EAE532B-CADE-44DA-9A03-4CFB1BE30066}.Release|x64.Build.0 = Release|Any CPU
 		{0EAE532B-CADE-44DA-9A03-4CFB1BE30066}.Release|x86.ActiveCfg = Release|Any CPU
 		{0EAE532B-CADE-44DA-9A03-4CFB1BE30066}.Release|x86.Build.0 = Release|Any CPU
+		{C1A2EE09-3344-45E7-88B3-3FC7AE71D3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A2EE09-3344-45E7-88B3-3FC7AE71D3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A2EE09-3344-45E7-88B3-3FC7AE71D3AC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C1A2EE09-3344-45E7-88B3-3FC7AE71D3AC}.Debug|x64.Build.0 = Debug|Any CPU
+		{C1A2EE09-3344-45E7-88B3-3FC7AE71D3AC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C1A2EE09-3344-45E7-88B3-3FC7AE71D3AC}.Debug|x86.Build.0 = Debug|Any CPU
+		{C1A2EE09-3344-45E7-88B3-3FC7AE71D3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A2EE09-3344-45E7-88B3-3FC7AE71D3AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A2EE09-3344-45E7-88B3-3FC7AE71D3AC}.Release|x64.ActiveCfg = Release|Any CPU
+		{C1A2EE09-3344-45E7-88B3-3FC7AE71D3AC}.Release|x64.Build.0 = Release|Any CPU
+		{C1A2EE09-3344-45E7-88B3-3FC7AE71D3AC}.Release|x86.ActiveCfg = Release|Any CPU
+		{C1A2EE09-3344-45E7-88B3-3FC7AE71D3AC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
