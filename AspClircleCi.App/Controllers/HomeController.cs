@@ -15,6 +15,13 @@ namespace AspClircleCi.App.Controllers
             return View();
         }
 
+
+        public IActionResult Mailing()
+        {
+            
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
