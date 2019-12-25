@@ -6,4 +6,6 @@ jobs:
     steps:
       - checkout
       - run: find .
+      - run: echo "A first hello"
+      - run: sleep 25 
 
