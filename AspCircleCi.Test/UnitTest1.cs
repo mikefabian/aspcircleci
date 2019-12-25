@@ -19,7 +19,7 @@ namespace Tests
         public void Test2()
         {
 
-            Assert.That(1 != 1);
+            Assert.That(1 == 1);
         }
 
     }
